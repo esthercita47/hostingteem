@@ -1,0 +1,15 @@
+h1{
+    color: blueviolet;
+}
+p{
+    color: black
+
+}
+.banner-custon{
+    width:600px;
+    margin: auto;
+}
+
+.banner-custon img{
+    width: 100%;
+}
